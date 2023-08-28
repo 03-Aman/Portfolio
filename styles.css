@@ -473,7 +473,7 @@ border: none;
 
 }
 
-.skill-fade-text{
+/* .skill-fade-text{
     position: absolute;
     user-select: none;
     font-size: 15rem;
@@ -482,7 +482,7 @@ border: none;
     right: -25%;
     font-weight: bold;
     overflow-y: hidden;
-}
+} */
 
 .skills-logo{
     width: 90px;
